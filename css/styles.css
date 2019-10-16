@@ -1,0 +1,15 @@
+.img
+{
+  float: left;
+}
+
+.sidebar
+{
+  float: right;
+  background-color: black;
+  color: 	#C0C0C0;
+}
+body
+{
+  background-color: red;
+}
